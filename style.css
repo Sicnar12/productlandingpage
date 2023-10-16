@@ -4,8 +4,11 @@ body{
     text-align: center;
     font-weight: 700;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
+img{
+    width: 260px;
+}
+
 h2{
     font-weight: bolder51;
 }
